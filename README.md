@@ -1,9 +1,3 @@
-<div align="center"> 
-  
-# Tech-Writers wiki
-</div>
-
-
 ## Technical Writing-Definition 
 Technical Writing is a discipline focused on transforming complex information into an easy-to-understand format. It is a specialized form of writing used to explain:
 
@@ -22,11 +16,11 @@ Effective technical writing skills requires a combination of several key skills.
 <li>Technology Knowledge</li>
 <li>Editing and Proofreading</li>
 <li>Communication Skills</li>
-</ol></br>
+</ol>
 
 
 ## Technical Writing Process 
-![image](https://github.com/user-attachments/assets/dcfddf9e-cfde-4170-8050-91c9f08fd7cb)  </br>
+![image](https://github.com/user-attachments/assets/dcfddf9e-cfde-4170-8050-91c9f08fd7cb)  
 
 
 ## The Role of Technical Writers Across Diverse Industries
