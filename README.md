@@ -1,7 +1,6 @@
 <div align="center"> 
   
 # Tech-Writers wiki
-
 </div>
 
 
@@ -10,7 +9,7 @@ Technical Writing is a discipline focused on transforming complex information in
 
 <ul><li>The types of products or services your organization provides.</li>
 <li>The features of these products or services.</li>
-<li>Instructions on how to: Install, Set up and configure, Use, Maintain, and Dispose of a product or service.</li></ul></br>
+<li>Instructions on how to: Install, Set up and configure, Use, Maintain, and Dispose of a product or service.</li></ul> 
 
 
 ## Effective Technical Writing Skills 
