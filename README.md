@@ -10,7 +10,7 @@ Technical Writing is a discipline focused on transforming complex information in
 Effective technical writing skills requires a combination of several key skills.Some of the most important skills are as follows:
 <ol><li> Writing Skills</li>
   <li>Grammar</li>
-  <li>right choice of words</li>
+  <li>Right choice of words</li>
   <li>Design Skills</li>  
 <li>Research Skills</li>
 <li>Technology Knowledge</li>
